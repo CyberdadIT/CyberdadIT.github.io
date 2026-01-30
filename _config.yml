@@ -41,10 +41,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cyberdadit@example.com"
+  email: contact@cyberdadit.com
   github: CyberdadIT
   # linkedin: your-linkedin-username
-  # twitter: your-twitter-username
+  # twitter: @CyberdadIT
 #  rss: true
 #  facebook: your-facebook-username
 #  youtube: c/your-youtube-channel

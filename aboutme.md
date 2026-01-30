@@ -12,14 +12,14 @@ I'm a passionate cybersecurity enthusiast on a journey to become a professional 
 
 ## 🎯 My Cybersecurity Journey
 
-I began my journey into cybersecurity in **[Month/Year]** after [your reason - discovering a passion for technology, wanting to protect systems, interest in ethical hacking, etc.].
+I began my journey into cybersecurity in **MNovember 2023** after I became a victim of socail enginerring, discovering a passion for technology, wanting to protect systems and  an nterest in ethical hacking.
 
 Since then, I've been:
-- Completing hands-on labs and CTF challenges
+- Completing hands-on labs on Tryhackme and Hackthebox
 - Building a home security lab environment
 - Learning penetration testing methodologies
 - Studying for industry certifications
-- Contributing to the cybersecurity community
+- And hoping to Contribute to the cybersecurity community
 
 ---
 
@@ -29,11 +29,12 @@ Since then, I've been:
 - **Network Security** - Understanding network protocols, traffic analysis, and securing network infrastructure
 - **Web Application Security** - Finding and exploiting vulnerabilities in web applications
 - **Linux System Administration** - Mastering command-line tools and system hardening
+- **Security Operations and Monitoring with SIEM(Splunk and Security Onion)** - Mastering command-line tools and system hardening
 - **Python for Security** - Writing scripts to automate security tasks
 - **Penetration Testing** - Learning methodologies and tools for ethical hacking
 
 ### Platforms I Practice On:
-- TryHackMe (Current rank: [Your rank])
+- TryHackMe (Current rank: In Progress)
 - HackTheBox
 - OverTheWire
 - PortSwigger Web Security Academy
@@ -43,9 +44,9 @@ Since then, I've been:
 ## 🎓 Education & Certifications
 
 ### Current Studies:
-- 🔄 **CompTIA Security+** (In Progress)
-- 🔄 **Linux Fundamentals**
-- 🔄 **Python for Cybersecurity**
+- 🔄 **CompTIA Security+** (Achieved)
+- 🔄 **Linux Fundamentals**(Achieved)
+- 🔄 **Python for Cybersecurity**(In Progress)
 
 ### Completed Courses:
 - ✅ [Any completed courses]
@@ -124,10 +125,10 @@ I believe in **learning in public** and giving back to the community. By documen
 
 I'm always excited to connect with fellow cybersecurity enthusiasts, professionals, and learners!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub](#)
-- **Twitter:** [Your Twitter](#) *(optional)*
+- **Email:** [contact@cyberdadit.com](mailto:contact@cyberdadit.com)
+- **LinkedIn:** [James Ebiloma](#)
+- **GitHub:** [YCyberdadIT@github.io](#)
+- **Twitter:** [@CyberdadIT](#) *(optional)*
 
 Feel free to reach out if you want to:
 - Collaborate on projects
@@ -140,9 +141,9 @@ Feel free to reach out if you want to:
 ## 🎨 Outside of Cybersecurity
 
 When I'm not hacking away at labs and CTFs, I enjoy:
-- [Your hobbies/interests]
-- [Other activities]
-- [What you do for fun]
+- [Badminton, Basketball]
+- [Music, Movies]
+- [Walking, running, Gym & Fitness]
 
 ---
 
